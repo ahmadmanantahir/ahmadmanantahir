@@ -1,4 +1,4 @@
-### Hi, I'm Ahmad
+### Hi, I'm Manan
 
 SEO Specialist with 5+ years in SEO and digital marketing. I help websites grow on Google and in AI search (ChatGPT, Google AI Overviews, Perplexity) by fixing what is actually holding them back, starting from real Search Console data.
 
@@ -13,7 +13,7 @@ SEO Specialist with 5+ years in SEO and digital marketing. I help websites grow 
 
 **Platforms:** WordPress, Shopify, Webflow, Wix and custom-coded sites
 
-**Tools:** Google Search Console, GA4, Google Tag Manager, SEMrush, SE Ranking, DataForSEO
+**Tools:** Google Search Console, GA4, Google Tag Manager, SEMrush, Ahrefs, Screaming Frog, and more
 
 **Results so far**
 
