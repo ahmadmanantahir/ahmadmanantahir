@@ -1,4 +1,4 @@
-### Hi, I'm Manan
+### Hi, I'm Ahmad
 
 SEO Specialist with 5+ years in SEO and digital marketing. I help websites grow on Google and in AI search (ChatGPT, Google AI Overviews, Perplexity) by fixing what is actually holding them back, starting from real Search Console data.
 
@@ -13,7 +13,7 @@ SEO Specialist with 5+ years in SEO and digital marketing. I help websites grow 
 
 **Platforms:** WordPress, Shopify, Webflow, Wix and custom-coded sites
 
-**Tools:** Google Search Console, GA4, Google Tag Manager, SEMrush, Ahrefs, Screaming Frog, and more
+**Tools:** Google Search Console, GA4, Google Tag Manager, SEMrush, SE Ranking, DataForSEO
 
 **Results so far**
 
@@ -24,6 +24,8 @@ SEO Specialist with 5+ years in SEO and digital marketing. I help websites grow 
 **Repositories**
 
 - [shopify-seo-schema](https://github.com/ahmadmanantahir/shopify-seo-schema): Product, Breadcrumb and Organization schema snippets for Shopify themes
+- [shopify-seo-audit-skill](https://github.com/ahmadmanantahir/shopify-seo-audit-skill): a Claude skill that audits a Shopify store and returns a prioritized fix list
+- [ai-search-visibility-kit](https://github.com/ahmadmanantahir/ai-search-visibility-kit): track and improve how often AI tools like ChatGPT and Perplexity mention your brand
 - [technical-seo-audit-checklist](https://github.com/ahmadmanantahir/technical-seo-audit-checklist): the checklist I follow for technical SEO and AI search audits, with robots.txt and llms.txt templates
 
 **Work with me:** [Upwork profile](https://www.upwork.com/freelancers/ahmadmanantahir)
